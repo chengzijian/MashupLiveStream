@@ -1,0 +1,17 @@
+out/
+app/.externalNativeBuild/*
+.idea/*
+*/gen/*
+gen/
+obj/
+*/bin/*
+*/classes/*
+.DS_Store
+*/build/*
+build
+.gradle/*
+.gradle*
+gradle*
+local.properties
+
+
